@@ -1,4 +1,4 @@
-# README Generator
+# ReadMe Generator
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="GitHub License"> 
 
   ## Table of Contents:
@@ -13,7 +13,7 @@
   ## Description:
   This is a Node.js application that uses user input from inquirer to generate a README.md file.
   
-  ## License 
+  ## License: 
 
 This project is licensed under the MIT license. 
 
@@ -24,7 +24,7 @@ This project is licensed under the MIT license.
   npm test
 
   ## Usage:
-  Run the 'node index.js' command at the root of the project and answer the prompts.
+  run 'node index.js' command
 
   ## Contribution:
   Inna Sherstnyova
