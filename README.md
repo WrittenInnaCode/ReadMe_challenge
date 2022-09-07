@@ -9,14 +9,18 @@ This is a Node.js application that dynamically generates a professional README.m
 
 ## Usage
 
-The repo can be found at:
-[https://github.com/WrittenInnaCode/ReadMe_challenge](https://github.com/WrittenInnaCode/ReadMe_challenge)
+💻 [The repo can be found here.](https://github.com/WrittenInnaCode/ReadMe_challenge)
 
+📺 [The walkthrough video can be seen here.](https://drive.google.com/file/d/1rRAGKRFaryamghGUj54IPk5Fh0D8jbsV/view)
+
+<br/><br/>
 ![alt screen shot](/assets/img/ReadMe_Screen_Shot.png)
+<br/><br/>
+![alt gif](/assets/img/ReadMe.gif)
 
 ## Questions:
 If you have any questions, please contact me. 
 
-My email address is writteninnacode@gmail.com 
+📧 My email address is writteninnacode@gmail.com 
 
-To find my GitHub page, visit [https://github.com/WrittenInnaCode](https://github.com/WrittenInnaCode)
+🌐 To find my GitHub page, visit [https://github.com/WrittenInnaCode](https://github.com/WrittenInnaCode)

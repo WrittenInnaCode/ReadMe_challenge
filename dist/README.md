@@ -11,7 +11,7 @@
   * [Questions](#questions)
 
   ## Description:
-  This is a Node.js application that uses user input from inquirer to generate a README.md file.
+  This is a Node.js application that dynamically generates a professional README.md file from a user's input using the Inquirer package.
   
   ## License: 
 
@@ -24,7 +24,7 @@ This project is licensed under the MIT license.
   npm test
 
   ## Usage:
-  run 'node index.js' command
+  run the 'node index.js' command
 
   ## Contribution:
   Inna Sherstnyova
